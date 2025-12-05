@@ -1,2 +1,4 @@
-# Assessment2
-Contains Python scripts for Assessment Task 1 and Task 2
+
+This repository contains:
+- Task1.py : <explain in one line>
+- Task2.py : <explain in one line>
